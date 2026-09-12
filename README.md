@@ -176,6 +176,7 @@ Lightweight OCR, layout, and document parsing models that are useful when VLMs a
 | Piper | TTS | Fast local neural text-to-speech with many small ONNX voice models | `phone`, `sbc`, `onnx` | [GitHub](https://github.com/rhasspy/piper), [Samples](https://rhasspy.github.io/piper-samples/) |
 | Kokoro 82M | TTS | Lightweight open-weight TTS with ONNX/quantized community deployment paths | `phone`, `laptop`, `onnx` | [Model](https://huggingface.co/hexgrad/Kokoro-82M), [ONNX variant](https://huggingface.co/onnx-community/Kokoro-82M-v1.0-ONNX) |
 | sherpa-onnx model set | ASR, TTS, VAD, keyword spotting | Practical ONNX runtime and model catalog for offline speech pipelines | `phone`, `sbc`, `onnx` | [GitHub](https://github.com/k2-fsa/sherpa-onnx), [TTS models](https://k2-fsa.github.io/sherpa/onnx/tts/all/) |
+| NanoAvatar | Audio-driven avatar lip sync | Android QNN inference without a cloud GPU; estimated 700 to 834 MiB memory | `phone`, `npu` | [GitHub](https://github.com/wpydcr/NanoAvatar), [Weights](https://huggingface.co/wpydcr/NanoAvatar), [Demo and device results](https://github.com/wpydcr/NanoAvatar#performance), [License](https://github.com/wpydcr/NanoAvatar#license) |
 
 ## Embeddings and Retrieval
 
